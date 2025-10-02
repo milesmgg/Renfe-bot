@@ -1,2 +1,2 @@
-# Renge_train_monitor
-Rellenar mas adelante
+# Renfe-bot
+Bot de telegram para monitorear trenes que estan llenos.
