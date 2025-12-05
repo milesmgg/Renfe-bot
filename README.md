@@ -2,7 +2,7 @@
 Bot de Telegram para monitorizar billetes de Renfe y avisarte automáticamente cuando un tren que estaba lleno tenga plazas libres.
 
 ---
-## 🚀 Puesta en marcha  
+## Puesta en marcha  
 
 1. **Clona este repositorio**  
 ```bash
@@ -37,8 +37,8 @@ TELEGRAM_TOKEN=tu_token_aqui
 python telegram_bot.py
 ```
 7. Ahora entra en la conversacion de telegram creada previamente y ya puedes añadir viajes para monitorear:
-## ✨ Funcionalidades  
-- 📌 Comandos:  
+## Funcionalidades  
+- Comandos:  
   - `/m` → Añadir un viaje para monitorizar (¡¡añadir nombre como aparece en la web de renfe!!
   - `/list` → Ver viajes guardados  
   - `/delete` → Eliminar un viaje guardado  
